@@ -75,4 +75,4 @@ runGitHub("ShinyTextMining", "AUL-Arts-Digital-Lab")
 3. Kør koden ved at trykke shift, ctrl og enter
 4. Du kan nu tilgå text mining applikationen
 
-<img src="./TextMiing.png" width="400"/>
+<img src="./TextMining.png" width="400"/>
